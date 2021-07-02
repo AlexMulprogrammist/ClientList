@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ClientList</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Client List</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <!-- edit_layout_res_strings-->
+    <string name="name">Name</string>
+    <string name="sec_name">Surname</string>
+    <string name="tel_numb">Contact phone number</string>
+    <string name="important">Important</string>
+    <string name="normal">Normal</string>
+    <string name="no_important">Not important</string>
+    <string name="notes">Notes</string>
+    <string name="special">Special</string>
+
+    <!-- menu_activity_main_drawer-->
+    <string name="client">Client</string>
+    <string name="importance">Importance</string>
+    <string name="settings">Settings</string>
+    <string name="general_settings">General settings</string>
+    <string name="web_page">Web page</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_message">Are you sure you want to delete?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="text_settings">Text settings</string>
+    <string name="search">Search</string>
+
+    <string name="text_color_name">Text color client name</string>
+    <string name="text_color_name_summary">Check text color client name</string>
+
+    <string name="text_color_sec_name">Text color client second name </string>
+    <string name="text_color_sec_name_summary">Check text color second name</string>
+
+
+    <!-- keys-->
+    <string name="text_name_color_key">text_name_color_key</string>
+    <string name="text_sec_name_color_key">text_sec_name_color_key</string>
+
+
+
+</resources>

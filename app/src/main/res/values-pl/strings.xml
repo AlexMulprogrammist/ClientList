@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ClientList</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Client List</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <!-- edit_layout_res_strings-->
+    <string name="name">Imię</string>
+    <string name="sec_name">Nazwisko</string>
+    <string name="tel_numb">Kontaktowy numer telefonu</string>
+    <string name="important">Ważny</string>
+    <string name="normal">Normalny</string>
+    <string name="no_important">Nieważny</string>
+    <string name="notes">Uwagi</string>
+    <string name="special">Osobliwy</string>
+
+    <!-- menu_activity_main_drawer-->
+    <string name="client">Klient</string>
+    <string name="importance">Ważność</string>
+    <string name="settings">Ustawienia</string>
+    <string name="general_settings">Ustawienia główne</string>
+    <string name="web_page">Strona internetowa</string>
+    <string name="edit">Edytuj</string>
+    <string name="delete">Usuń</string>
+    <string name="delete_message">Czy jesteś pewny że chcesz usunąć?</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="text_settings">Ustawienia tekstu</string>
+    <string name="search">Szukaj</string>
+
+    <string name="text_color_name">Kolor tekstu imię klienta</string>
+    <string name="text_color_name_summary">Sprawdź kolor tekstu imię klienta</string>
+
+    <string name="text_color_sec_name">Kolor tekstu nazwisko klienta </string>
+    <string name="text_color_sec_name_summary">Sprawdź kolor tekstu nazwisko klienta</string>
+
+
+    <!-- keys-->
+    <string name="text_name_color_key">text_name_color_key</string>
+    <string name="text_sec_name_color_key">text_sec_name_color_key</string>
+
+
+
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">ClientList</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Client List</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+
+    <!-- edit_layout_res_strings-->
+    <string name="name">Имя</string>
+    <string name="sec_name">Фамилия</string>
+    <string name="tel_numb">Контактный телефон</string>
+    <string name="important">Важный</string>
+    <string name="normal">Обычный</string>
+    <string name="no_important">Не важный</string>
+    <string name="notes">Заметки</string>
+    <string name="special">Особенный</string>
+
+    <!-- menu_activity_main_drawer-->
+    <string name="client">Клиент</string>
+    <string name="importance">Важность</string>
+    <string name="settings">Настройки</string>
+    <string name="general_settings">Общие настройки</string>
+    <string name="web_page">Веб-страница</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_message">Вы уверены, что хотите удалить?</string>
+    <string name="yes">да</string>
+    <string name="no">Нет</string>
+    <string name="text_settings">Настройки текста</string>
+    <string name="search">Поиск</string>
+
+    <string name="text_color_name">Цвет текста имя клиента</string>
+    <string name="text_color_name_summary">Проверить цвет текста имени клиента</string>
+
+    <string name="text_color_sec_name">Цвет текста фамилия клиента</string>
+    <string name="text_color_sec_name_summary">Проверить цвет текста фамилии клиента</string>
+
+
+    <!-- keys-->
+    <string name="text_name_color_key">text_name_color_key</string>
+    <string name="text_sec_name_color_key">text_sec_name_color_key</string>
+
+
+
+</resources>
